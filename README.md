@@ -18,4 +18,3 @@ Lab de testes
 	git merge upstream/master
 
 	git push -f origin master
-
