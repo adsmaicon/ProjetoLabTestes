@@ -9,7 +9,7 @@ jobs:
     env:
       OS: ${{ matrix.os }}
       PYTHON: '3.7'
-    steps:
+      steps:
     - uses: actions/checkout@master
     - name: Install dependencies
       run: |
